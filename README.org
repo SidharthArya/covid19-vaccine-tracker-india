@@ -1,2 +1,16 @@
 #+TITLE: Covid19 Vaccine Tracking Bot
 [[file:https://www.youtube.com/watch?v=9W0XNbmQQRQ][https://img.youtube.com/vi/9W0XNbmQQRQ/0.jpg]]
+
+#+HTML: <iframe width="560" height="315" src="https://www.youtube.com/embed/9W0XNbmQQRQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+A simple but efficient covid19 vaccine tracking bot written in python.
+
+* Options
++ ~--p~  - Path to file which would store information about what people requested to track
++ ~--l~  - Path to location file which stores location with their ids
++ ~--telegram~  - Whether to enable telegram interaction or not
++ ~--telegramallow~  - Allow everyone to connect to the bot
++ ~--token~  - Token for you telegram bot. (If you don't have one you can request from Telegram's bot @BotFather. Please refer: https://core.telegram.org/bots#:~:text=for%20existing%20ones.-,Creating%20a%20new%20bot,in%20contact%20details%20and%20elsewhere.)
++ ~--tokenfile~ - File which stores the token. (Used if token is not explicitely provided)
++ ~--interactive~ - Allow interaction with the bot from the server side. (You can select whom to allow tracking through your bot)
+
+
