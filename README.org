@@ -1,2 +1,2 @@
 #+TITLE: Covid19 Vaccine Tracking Bot
-file:https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE
+[[https://www.youtube.com/watch?v=9W0XNbmQQRQ][file:https://www.youtube.com/watch?v=9W0XNbmQQRQ]]
